@@ -1,5 +1,12 @@
 # next-commerce
 
+## 0.0.3
+
+### Patch Changes
+
+- Updated dependencies [f8145b3]
+  - @vercel/commerce-bigcommerce@0.0.3
+
 ## 0.0.2
 
 ### Patch Changes
