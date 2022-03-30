@@ -1,5 +1,11 @@
 # @vercel/commerce-bigcommerce
 
+## 0.0.4
+
+### Patch Changes
+
+- 3032093: changed index
+
 ## 0.0.3
 
 ### Patch Changes
