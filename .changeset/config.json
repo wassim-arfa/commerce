@@ -7,18 +7,5 @@
   "access": "restricted",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
-  "ignore": [
-    "@vercel/commerce-bigcommerce",
-    "next-commerce",
-    "@vercel/commerce",
-    "@vercel/commerce-commercejs",
-    "@vercel/commerce-kibocommerce",
-    "@vercel/commerce-local",
-    "@vercel/commerce-ordercloud",
-    "@vercel/commerce-saleor",
-    "@vercel/commerce-shopify",
-    "@vercel/commerce-spree",
-    "@vercel/commerce-swell",
-    "@vercel/commerce-vendure"
-  ]
+  "ignore": []
 }
