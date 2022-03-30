@@ -1,5 +1,14 @@
 # next-commerce
 
+## 0.0.4
+
+### Patch Changes
+
+- 3032093: changed index
+- f93dd7a: edit index
+- Updated dependencies [3032093]
+  - @vercel/commerce-bigcommerce@0.0.4
+
 ## 0.0.3
 
 ### Patch Changes
